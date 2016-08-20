@@ -1,0 +1,9 @@
+File Navigator
+Git (sublime-text-git)
+Modific
+Open-Include
+Package Control
+PackageDev
+JavaImports
+Terminal
+Theme - Centurion
